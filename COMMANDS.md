@@ -21,6 +21,9 @@ git pull                     # neueste Version von GitHub holen
 git push                     # eigene Änderungen hochladen
 ```
 
+```bash
+git remote -v                # zeigt, mit welchem GitHubRepo diese Projekt verbunden ist!
+````
 ---
 
 ## Branches
